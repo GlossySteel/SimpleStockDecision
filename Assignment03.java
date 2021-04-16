@@ -1,7 +1,7 @@
 /**
 * CSE 110     : Class 77686 / iCourse
 * Assignment  : Assignment 3
-* Author      : Joseph Kharzo & 1218555299
+* Author      : Joseph Kharzo
 * Description : The program calculates, based on a number of inputs, whether the
 * user should purchase, hold, or sell shares. The decision is based on a number
 * of calculations that ensure a profit is made from the trade. If no profit can
